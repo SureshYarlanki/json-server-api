@@ -1,0 +1,70 @@
+{
+  "contacts": [
+    {
+      "id": "D6BNdWnHI",
+      "name": "Brad Gibson",
+      "company": "YouTuber",
+      "email": "brad@gmail.com",
+      "title": "Youtuber",
+      "mobile": "9876546786",
+      "photo": "https://www.svgrepo.com/show/192244/man-user.svg",
+      "groupId": "3"
+    },
+    {
+      "id": "TVobxeKbI",
+      "name": "Glenda Kim",
+      "company": "ZOHO",
+      "email": "glenda@gmail.com",
+      "title": "freelancer",
+      "mobile": "8880009996",
+      "photo": "https://www.kindpng.com/picc/m/163-1636340_user-avatar-icon-avatar-transparent-user-icon-png.png",
+      "groupId": "2"
+    },
+    {
+      "name": "Raghuram Rajan",
+      "photo": "https://icons.iconarchive.com/icons/graphicloads/colorful-long-shadow/256/User-icon.png",
+      "mobile": "9090909099",
+      "email": "rajan@gmail.com",
+      "company": "HCL Technologies",
+      "title": "Software Engineer",
+      "groupId": "3",
+      "id": "kLt-bJF"
+    },
+    {
+      "id": "9db8",
+      "name": "Manoj Saikumar",
+      "photo": "https://cdn1.iconfinder.com/data/icons/user-pictures/100/male3-1024.png",
+      "mobile": "07330223411",
+      "company": "YouTube",
+      "email": "sureshfriends002@gmail.com",
+      "title": "SDE",
+      "groupId": "1"
+    }
+  ],
+  "groups": [
+    {
+      "id": "1",
+      "name": "Colleague"
+    },
+    {
+      "id": "2",
+      "name": "Friend"
+    },
+    {
+      "id": "3",
+      "name": "Family"
+    },
+    {
+      "id": "4",
+      "name": "Service"
+    },
+    {
+      "id": "5",
+      "name": "Community"
+    },
+    {
+      "id": "6",
+      "name": "Social"
+    }
+  ]
+}
