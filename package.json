@@ -1,14 +1,12 @@
 {
-  "name": "server",
+  "name": "json-server",
   "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
+  "description": "Fake REST API using json-server",
+  "main": "server.js",
   "scripts": {
-    "start": "json-server --watch db.json --port 9000"
+    "start": "node server.js",
+    "server": "json-server --watch db.json --port 9000"
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
   "dependencies": {
     "json-server": "^1.0.0-beta.0"
   }
